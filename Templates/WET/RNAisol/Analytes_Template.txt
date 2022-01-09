@@ -1,0 +1,17 @@
+RNA ID	$_RNA
+ng/ul	Blank
+260/280	Blank
+260/230	Blank
+Homogenisation protocol	fastPrep/TissueLyser/mortar
+Date Homogenisation	%today%
+Isolation Protocol	Rneasy_Plant/ZymoRNA
+Date Isolation	%today%
+Storage RNA	CU0369
+Dnase treatment protocol	*
+Dnase ID	$_DNase
+Date DNAse_treatment	%today%
+Storage_DNAse_treated	CU0370
+Operator	*
+cDNA ID	$_cDNA
+DateRT	%today%
+Notes	
