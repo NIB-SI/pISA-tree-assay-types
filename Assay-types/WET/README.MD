@@ -1,6 +1,6 @@
 # Assay specific fields
 
-Assay specific fields can be listed as item/value pairs 
+Assay specific fileds can be listed as Key/Value pairs 
 in the file meta_AType_Template.txt
 
 Fields that will be used to create table of used samples to record anlytes in Analytes.txt can be listed in Analytes_Template.txt file.
@@ -30,3 +30,7 @@ Measurement Type	nucleic acid sequencing
 Technology Type	Oxford Nanopore Technologies sequencing
 
 ## Assay type: LUM
+
+Measurement Type	*
+
+Technology Type	*
