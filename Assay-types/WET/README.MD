@@ -31,6 +31,6 @@ Technology Type	Oxford Nanopore Technologies sequencing
 
 ## Assay type: LUM
 
-Measurement Type	*
+Measurement Type	end point kinetic
 
 Technology Type	*
