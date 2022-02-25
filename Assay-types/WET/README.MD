@@ -33,4 +33,4 @@ Technology Type	Oxford Nanopore Technologies sequencing
 
 Measurement Type	end point kinetic
 
-Technology Type	*
+Technology Type	luminometer
