@@ -31,6 +31,6 @@ Technology Type	Oxford Nanopore Technologies sequencing
 
 ## Assay type: LUM
 
-Measurement Type	end point kinetic
+Measurement Type	promoter activity detection by reporter gene assay
 
-Technology Type	luminometer
+Technology Type	microplate reader
