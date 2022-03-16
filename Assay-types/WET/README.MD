@@ -15,7 +15,7 @@ Technology Type	RNA isolation and reverse transcription
 
 Measurement Type	metabolite profiling
 
-Technology Type	gas chromatography–mass spectrometry
+Technology Type	gas chromatography-mass spectrometry
 
 ## Assay type: qPCR
 
