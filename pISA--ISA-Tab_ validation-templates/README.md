@@ -1,16 +1,16 @@
-# pISA-valid
-xml and Tab-separated templates
+# pISA -- ISA-Tab validation
+pISA xml and ISA-Tab Investigation templates
 
 ## pISA assay types
 
-at <https://github.com/NIB-SI/pISA-tree-assay-types>
+at <https://github.com/NIB-SI/pISA-tree-assay-types/tree/main/Assay-types>
 
 
 ## external links
 
 [Code Beautify](https://codebeautify.org/)
 
-<https://github.com/ISA-tools/Configuration-Files/tree/master/isaconfig-default_v2015-07-02>
+<https://github.com/ISA-tools/Configuration-Files/tree/master/isaconfig-default_v2015-07-02> source for investigation.xml
 
 <https://github.com/ISA-tools/isa-api/blob/master/isatools/examples/validateISAtab.py>
 
