@@ -15,4 +15,16 @@ Collection of [pISA-tree](https://github.com/NIB-SI/pISA-tree) [assay types](htt
 - https://github.com/MIAPPE/MIAPPE-ontology/blob/master/PPEO.owl
 - https://github.com/MIAPPE/MIAPPE/tree/master/MIAPPE_Checklist-Data-Model-v1.1
 - https://github.com/ISA-tools/isa-api/tree/develop/isatools/resources/json-context
+- https://github.com/ISA-tools/isa-api/tree/master/isatools/resources/schemas/isa_model_version_1_0_schemas/core
+- https://github.com/ISA-tools/Configuration-Files
+- https://github.com/nfdi4plants/nfdi4plants_ontology
+- https://swate.nfdi4plants.org/docs/IOntologyAPIv2.html
+- https://github.com/MIAPPE/MIAPPE-ontology
+- https://github.com/nfdi4plants/ARC_ontology 
+- https://github.com/FAIRsharing/mircat/tree/master/miappe/schema
+- https://github.com/nfdi4plants/ARC_ontology/blob/main/ARC.owl
+- https://github.com/nfdi4plants/SWATE_templates
+- https://www.ebi.ac.uk/metabolights/guides/MAF/Title
+- ...
+
 
