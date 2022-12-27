@@ -34,3 +34,9 @@ Technology Type	Oxford Nanopore Technologies sequencing
 Measurement Type	promoter activity detection by reporter gene assay
 
 Technology Type	microplate reader
+
+## Assay type: IlluminaSeq
+
+Measurement Type	nucleic acid sequencing
+
+Technology Type	Illumina sequencing
