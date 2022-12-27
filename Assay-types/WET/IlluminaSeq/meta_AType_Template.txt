@@ -1,0 +1,18 @@
+#Item name	Item value
+#Creation date	2022-12-27
+# Lines starting with + will be silently added to metadata
++Measurement Type	nucleic acid sequencing
++Technology Type	Illumina sequencing
+#
+Lab manager	*
+# using SRA Library and Platform Terms from Excel metadata table as reference but with somewhat reduced options
+Library source	GENOMIC/TRANSCRIPTOMIC/METAGENOMIC/METATRANSCRIPTOMIC/SYNTHETIC/VIRAL RNA/GENOMIC SINGLE CELL/TRANSCRIPTOMIC SINGLE CELL/OTHER
+Library selection	RANDOM/PCR/cDNA/ChIP/DNAse/PolyA/unspecified
+Library Layout	single/paired
++Platform	Illumina
+Instrument Model	NovaSeq X/NovaSeq 6000/NextSeq 2000/NextSeq 1000/NextSeq 550/Illumina MiSeq/MiniSeq/iSeq 100
+Sequencing library strendness:	reverse (R, RF, fr-firststrand)/forward (F, FR, fr-secondstrand)/unstranded
+Sequencing library prep protocol	*
++File Type	fastq
+Operator	*
+Notes	
