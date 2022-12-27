@@ -11,6 +11,7 @@ Library selection	RANDOM/PCR/cDNA/ChIP/DNAse/PolyA/unspecified
 Library Layout	single/paired
 +Platform	Illumina
 Instrument Model	NovaSeq X/NovaSeq 6000/NextSeq 2000/NextSeq 1000/NextSeq 550/Illumina MiSeq/MiniSeq/iSeq 100
+Sequencing read length:	*
 Sequencing library strendness:	reverse (R, RF, fr-firststrand)/forward (F, FR, fr-secondstrand)/unstranded
 Sequencing library prep protocol	*
 +File Type	fastq
